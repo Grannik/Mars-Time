@@ -1,0 +1,72 @@
+ html
+{
+ background-image: url(SpaceRoom.svg);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+ body  {margin:0;padding:0;}
+/* button */
+ button{position:absolute;height:4%;text-align:center;font-size:15px;cursor:pointer;color:Cornsilk;opacity:0.5;}
+.GrannikWeb {width:50%;top:0% ;left:0% ;background-color:MidnightBlue;}
+.GrannikMars{width:50%;top:0% ;left:50%;background-color:MidnightBlue;}
+ canvas{position:absolute;left:8%;top:4%;}
+/* div */
+  div{position:absolute;width:4%;height:8%;border-radius:10%;background-color:MidnightBlue;opacity:0.2}
+
+ .la{left:0%; top:4% ;}
+ .lb{left:0%; top:12%;}
+ .lc{left:0%; top:20%;}
+ .ld{left:0%; top:28%;}
+ .le{left:0%; top:36%;}
+ .lf{left:0%; top:44%;}
+ .lg{left:0%; top:52%;}
+ .lh{left:0%; top:60%;}
+ .li{left:0%; top:68%;}
+ .lj{left:0%; top:76%;}
+ .lk{left:0%; top:84%;}
+ .ll{left:0%; top:92%;}
+
+ .al{left:4%; top:4% ;}
+ .bl{left:4%; top:12%;}
+ .cl{left:4%; top:20%;}
+ .dl{left:4%; top:28%;}
+ .el{left:4%; top:36%;}
+ .fl{left:4%; top:44%;}
+ .gl{left:4%; top:52%;}
+ .hl{left:4%; top:60%;}
+ .il{left:4%; top:68%;}
+ .jl{left:4%; top:76%;}
+ .kl{left:4%; top:84%;}
+/*ll*/
+ .ml{left:4%; top:92%;}
+
+ .ra{right:0%;top:4% ;}
+ .rb{right:0%;top:12%;}
+ .rc{right:0%;top:20%;}
+ .rd{right:0%;top:28%;}
+ .re{right:0%;top:36%;}
+ .rf{right:0%;top:44%;}
+ .rg{right:0%;top:52%;}
+ .rh{right:0%;top:60%;}
+ .ri{right:0%;top:68%;}
+ .rj{right:0%;top:76%;}
+ .rk{right:0%;top:84%;}
+ .rl{right:0%;top:92%;}
+
+ .ar{right:4%;top:4% ;}
+ .br{right:4%;top:12%;}
+ .cr{right:4%;top:20%;}
+ .dr{right:4%;top:28%;}
+ .er{right:4%;top:36%;}
+ .fr{right:4%;top:44%;}
+ .gr{right:4%;top:52%;}
+ .hr{right:4%;top:60%;}
+ .ir{right:4%;top:68%;}
+ .jr{right:4%;top:76%;}
+ .kr{right:4%;top:84%;}
+ .lr{right:4%;top:92%;}
